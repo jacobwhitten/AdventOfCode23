@@ -13,6 +13,3 @@ for i,time in enumerate(times):
         
 
 print(ans)
-
-res = 0
-print(res)
